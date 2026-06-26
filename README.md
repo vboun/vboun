@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Boundavan (BDV) 👋
 
-<!--
-**vboun/vboun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior Full-Stack Developer & IT Consultant | Vientiane, Laos 🇱🇦**
 
-Here are some ideas to get you started:
+10+ years building enterprise systems across insurance, hospitality, retail, government, and NGO sectors. Currently IT Developer/Manager at LA Group & PPN, and founder of BDV Software Development — a freelance consulting practice.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+`React` `Vue.js` `Flutter` `Laravel` `Node.js` `PHP` `MySQL` `PostgreSQL` `RESTful APIs`
+
+### 🌟 What I Build
+- 📱 Offline-first mobile apps (Flutter + SQLite/Drift)
+- 💳 BCEL OnePay payment gateway integrations
+- 🏨 Hospitality & retail SaaS (POS, booking systems)
+- 🏛 Government & NGO digitalization platforms
+- 🌐 Bilingual Lao/English systems (Phetsarath OT font support)
+
+### 📌 Featured Projects
+- **BDVPOS** — Offline-first POS system (Flutter / Laravel / MySQL)
+- **StayPay** — Pay-per-guest hotel SaaS with agent network
+- **AI-MINIMART** — AI-assisted minimart POS for the Lao market
+---
+⭐ Open to freelance & consulting work in full-stack development, mobile apps, and Lao-market digitalization.
